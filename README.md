@@ -1,6 +1,6 @@
 # Multi-Linked List Student Records
 
-This is a simple C++ project that manages student records using a multi-linked list structure.  
+This is a C++ project that manages student records using a multi-linked list structure.  
 Each student node is connected in two separate linked lists:
 - One sorted by **student ID**
 - One sorted by **CGPA**
